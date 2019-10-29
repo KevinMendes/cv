@@ -11,8 +11,8 @@
 <header>
     <nav class="navbar navbar-expand bg-danger">
         <div class="navbar-collapse collapse">
-            <a class="navbar-brand mb-0 h1 nav-item mr-auto text-light" href="#">KEVIN</a>
-            <ul class="navbar-nav ">
+            <a class="navbar-brand mb-0 h1 nav-item mr-auto text-light font-weight-bold" href="#">KEVIN</a>
+            <ul class="navbar-nav text-uppercase">
                 <li class="nav-item active ml-auto"><a class="nav-link text-light" href="#project">Mes projets</a></li>
                 <li class="nav-item ml-auto"><a class="nav-link text-light" href="#technos">Mes technos</a></li>
                 <li class="nav-item ml-auto"><a class="nav-link text-light" href="#who">Qui suis-je ?</a></li>
