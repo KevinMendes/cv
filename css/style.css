@@ -4,51 +4,8 @@ html{
     font-size: 14px;
 }
 /** Color used : #6F2DBD aA663CC B298DC B8D0EB B9FAF8 */
-.menu{
-    padding: 2em;
-    background-color: #6F2DBD;
-}
 
-.nav {
-    padding: 4em;
-    font-size: 1.4em;
-    text-decoration: none;
-    color: #B9FAF8;
-}
-
-body{
-    background-color: #b8d0eb;
-}
-
-.wrapper{
-    display: flex;
-    flex-direction: column;
-    width: 90%;
-    margin: auto;
-    padding: 0.5em;
-    text-align: justify;
-}
-
-.subwrapper{
+#cardbox{
     display: flex;
     flex-direction: row;
-    width: 100%;
-    
-}
-
-.project{
-    background-color: #A663CC;  
-    margin: 0.2em;  
-}
-.technos{
-    background-color: #B298DC;
-    margin: 0.2em;
-}
-.who{
-    background-color: #B298DC;
-    margin: 0.2em;
-}
-.hire{
-    background-color: #B8D0EB;
-    margin: 0.2em;
 }

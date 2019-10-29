@@ -1,2 +1,21 @@
 <section id="hire" class="hire">
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque ducimus nam beatae delectus blanditiis perspiciatis explicabo saepe iure assumenda consequatur amet enim, harum aperiam dolor repellendus quidem neque dicta impedit minima nulla! Ullam ducimus culpa voluptas eveniet quaerat excepturi aut natus eos ratione nam, perspiciatis repellat impedit assumenda quasi voluptatibus cumque, corrupti nostrum! Nostrum porro obcaecati asperiores, ab quasi non enim voluptatem voluptate laudantium nulla facilis excepturi eos ipsa? Temporibus quia accusamus aut unde eum quam voluptates quasi tempore ut obcaecati, soluta sed molestiae facere inventore velit nemo mollitia accusantium numquam est ipsam. Explicabo, saepe vero quae nesciunt sequi enim soluta eligendi eius placeat accusamus consequuntur ducimus quaerat ratione dolorem voluptatem eveniet illo aliquid consectetur necessitatibus. Corporis consectetur molestiae, illo eum in facere quaerat, cupiditate laudantium molestias earum non laboriosam. Officia placeat perferendis minima facilis, qui rem corrupti officiis alias reiciendis exercitationem fuga! Dolore alias, a recusandae maiores ad beatae consectetur quia voluptatibus porro, doloribus expedita possimus maxime molestiae nam perspiciatis rerum assumenda aliquid consequatur deserunt fugiat dolores in sapiente vero eius. Optio ab cumque voluptate adipisci quod quis cupiditate voluptatum unde. Cupiditate quos aut esse minima reiciendis. Reprehenderit, esse commodi repellat fuga nulla a ipsum magnam amet dolor culpa?</p></section>
+    <div class="form-group">
+        <form action="" method="get" class="recruts">
+            <div class="recruts">
+                <label for="name">Entrez votre nom: </label>
+                <input type="text" name="name" id="name" required>
+            </div>
+            <div class="form-example">
+                <label for="email">Votre email: </label>
+                <input type="email" name="email" id="email" required>
+            </div>
+            <label for="message">Votre message :</label>
+            <textarea id="message" name="message" rows="10" cols="20">
+            Ceci est une super message d'exemple de se que vous pourriez m'envoyer
+            </textarea>
+            <div class="recruts">
+                <input type="submit" value="Envoyer">
+            </div>
+        </form>
+    </div>
+</section>
