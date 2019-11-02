@@ -2,22 +2,22 @@
     <div class="card" style="width: 18rem;">
         <img class="card-img-top" src="images/photo1.jpeg" alt="Card image cap">
         <div class="card-body">
-            <h5 class="card-title">Projet 1</h5>
-                <p>J'ai un talent pour super bien expliquer se que je veux dire</p>          
+            <h5 class="card-title">Site vitrine Tesla</h5>
+                <p>One page de présentation fait uniquement avec bootstrap et HTML</p>          
         </div>
         <div class="card-body">
-            <a href="#" class="btn btn-primary">Va le regarder</a>
+            <a href="tesla/" class="btn btn-primary">Va le regarder</a>
             <a href="#" class="btn btn-secondary">Github</a>
         </div>
     </div>
     <div class="card" style="width: 18rem;">
         <img class="card-img-top" src="images/photo.png" alt="Card image cap">
         <div class="card-body">
-            <h5 class="card-title">Projet 2</h5>
-            <p class="card-text">Mon deuxième projet encore mieux mdr lol</p>
+            <h5 class="card-title">Mini jeux en JS</h5>
+            <p class="card-text">Jeux des nombres! Venez trouver le bon numéro</p>
         </div>
         <div class="card-body">
-            <a href="#" class="btn btn-primary">Va le regarder</a>
+            <a href="/jeux/html" class="btn btn-primary">Va le regarder</a>
             <a href="#" class="btn btn-secondary">Github</a>
         </div>
     </div>
